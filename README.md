@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Jean Peixoto 🖐️
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://dev-jean.site/)](https://dev-jean.site)
+[![Blog](https://img.shields.io/website?label=dev-Jean.site&style=for-the-badge&url=https://dev-jean.site/)](https://dev-jean.site)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jean.peixoto7/)
 
 ![Jean GitHub stats](https://github-readme-stats.vercel.app/api?username=fakersz&show_icons=true&theme=dracula&count_private=true)
