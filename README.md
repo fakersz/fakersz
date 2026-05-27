@@ -10,17 +10,18 @@
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-💻 Desenvolvedor Full Stack focado em SaaS e sistemas web  
-🐧 Experiência prática com Linux VPS, nginx e deploy  
+💻 Desenvolvedor Full Stack focado em sistemas web e SaaS  
+🐧 Experiência prática com Linux VPS, nginx, deploy e banco de dados  
 📊 Conhecimento em Power BI e análise de dados  
-⚡ Atualmente desenvolvendo o GestaoAuto, um SaaS de gestão para oficinas e lojas
+⚓ Em preparação para o PREPOM 2026 e futura carreira marítima/offshore  
+🛢️ Interesse em atuar na área offshore com tecnologia e informática embarcada
 
 ---
 
-## 🛠️ Tecnologias que eu uso no dia a dia
+# 🛠️ Tecnologias que eu utilizo
 
 <div style="display: inline_block"><br/>
 
@@ -41,49 +42,51 @@
 
 ---
 
-## 📌 Projetos em destaque
+# 📌 Projetos em destaque
 
-### 🔧 GestaoAuto
-SaaS de gestão para oficinas e lojas com:
-- Controle de estoque
-- PDV
-- Gestão de clientes
-- Controle financeiro
+## 🔧 GestaoAuto
+SaaS de gestão para oficinas e lojas desenvolvido com:
+- PHP
+- PostgreSQL
+- Linux VPS
+- nginx
 - Sistema de planos
-- Deploy em VPS Linux
-
-### 🌐 Outros Projetos
-- Sistemas web responsivos
-- Landing pages modernas
-- Bots para Discord
-- Projetos com Power BI
-- Automação e deploy Linux
+- Controle financeiro
+- Estoque
+- PDV
+- Responsividade mobile
 
 ---
 
-## 📈 GitHub Stats
+# 🎓 Certificações
 
-<div align="center">
+✅ T-HUET  
+✅ CBSP  
 
-![Jean GitHub stats](https://github-readme-stats.vercel.app/api?username=fakersz&show_icons=true&theme=dracula&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakersz&layout=compact&theme=dracula)
-
-</div>
+📍 Certificações realizadas pela West Group em Campos dos Goytacazes/RJ
 
 ---
 
-## 📚 Atualmente estudando
+# 📚 Atualmente estudando
 
 - Arquitetura SaaS
-- APIs e integrações
 - Segurança web
 - PostgreSQL avançado
-- Responsividade e UI/UX
 - Infraestrutura Linux
+- APIs e integrações
+- Desenvolvimento responsivo
+- Tecnologia aplicada ao setor offshore
 
 ---
 
-## 🎯 Objetivo
+# 🎯 Objetivos
 
-Buscando oportunidade como Desenvolvedor Full Stack Júnior / Web Developer para continuar evoluindo profissionalmente e construir projetos cada vez maiores 🚀
+Buscando evolução profissional nas áreas de:
+
+- Desenvolvimento Web
+- Infraestrutura Linux
+- Tecnologia Offshore
+- Sistemas e suporte embarcado
+- Desenvolvimento SaaS
+
+Sempre buscando unir tecnologia, infraestrutura e soluções reais 🚀⚓
