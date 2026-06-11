@@ -28,8 +28,6 @@
 
 📊 Conhecimento em Power BI, bancos de dados e análise de dados
 
-⚓ Em preparação para o PREPOM 2026, buscando unir tecnologia, infraestrutura e o setor marítimo/offshore
-
 🚀 Apaixonado por criar soluções reais utilizando tecnologia de forma prática
 
 ---
@@ -61,60 +59,6 @@
 
 ---
 
-## 📌 Projetos Open Source
-
-### 🚗 GestaoAuto
-
-Sistema SaaS para oficinas mecânicas.
-
-**Tecnologias**
-
-* PHP
-* PostgreSQL
-* Linux VPS
-* Nginx
-* JavaScript
-
-**Funcionalidades**
-
-* Ordens de Serviço
-* Cadastro de Clientes
-* Controle Financeiro
-* Controle de Estoque
-* Gestão Multiempresa
-* Painel Administrativo
-
-🔗 Repositório:
-https://github.com/fakersz/gestaoauto
-
----
-
-### 🏪 GestaoStore
-
-Sistema SaaS para lojas e comércios.
-
-**Tecnologias**
-
-* PHP
-* PostgreSQL
-* Linux VPS
-* Nginx
-* JavaScript
-
-**Funcionalidades**
-
-* Controle de Produtos
-* Estoque
-* PDV
-* Cadastro de Clientes
-* Controle Financeiro
-* Sistema de Planos
-
-🔗 Repositório:
-https://github.com/fakersz/gestaostore
-
----
-
 ## 📚 Atualmente estudando
 
 * Arquitetura SaaS
@@ -132,13 +76,12 @@ https://github.com/fakersz/gestaostore
 
 Busco crescimento profissional nas áreas de:
 
-* Desenvolvimento Web
-* Infraestrutura Linux
-* Banco de Dados
-* Tecnologia Offshore
-* Sistemas e Suporte Embarcado
-* Desenvolvimento SaaS
+* Desenvolvimento Web / Saas / LandingPages
+* Infraestrutura Linux / VPS / Ubuntu / WIndows Server
+* Banco de Dados / SQL / PowerBi
+* Tecnologia Offshore (T.HUET + CBSP Valids +4Years)
+* Sistemas e Suporte Embarcado / Tecnico em Informatica OnShore+OffShore
+* Desenvolvimento SaaS/Sites/Perfis/Portifolios/Lojas/ComercioGeral
+* Trabalhar pra Europa (Italia)
 
-Meu foco é construir soluções reais, aprender continuamente e evoluir tanto na área de tecnologia quanto no setor marítimo.
-
-🚀⚓
+Meu foco é construir soluções reais, aprender continuamente e evoluir tanto na área de tecnologia home office/presencial.🚀
