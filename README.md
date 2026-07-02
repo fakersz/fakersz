@@ -1,87 +1,156 @@
-# Olá! Eu sou o Jean Peixoto 👋
-
 <div align="center">
 
-<a href="https://dev-jean.site">
-<img src="https://img.shields.io/website?label=dev-jean.site&style=for-the-badge&url=https://dev-jean.site/" />
-</a>
+# 👋 Hi, I'm Jean Peixoto
 
-<a href="https://www.linkedin.com/in/jean-peixoto-33744420a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### 💻 Full Stack Developer
 
-<a href="https://www.instagram.com/jean.peixoto7/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+Building real-world systems with **Java**, **PHP**, **PostgreSQL**, **MySQL**, **HTML**, **CSS** and **JavaScript**.
+
+<p>
+  <a href="https://dev-jean.site">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-dev--jean.site-black?style=for-the-badge">
+  </a>
+
+  <a href="https://www.linkedin.com/in/jean-peixoto-33744420a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://instagram.com/jean.dev237">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+</p>
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 About Me
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+I'm a **Full Stack Developer** passionate about building complete web applications, from backend architecture and databases to responsive interfaces and production deployment.
 
-💻 Desenvolvedor Full Stack focado em sistemas web, SaaS e automação de processos
+I enjoy solving real-world problems through software while sharing my journey as a technology content creator.
 
-🐧 Experiência prática com Linux, VPS, Nginx, Git, PostgreSQL e deploy de aplicações
-
-📊 Conhecimento em Power BI, bancos de dados e análise de dados
-
-🚀 Apaixonado por criar soluções reais utilizando tecnologia de forma prática
+My goal is to create scalable products, contribute to meaningful projects and build an international career in software development.
 
 ---
 
-## 🛠️ Tecnologias
+# ⚡ Core Stack
 
-### Backend
+## ☕ Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=java,php" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Infraestrutura
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-### Ferramentas
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+</p>
 
 ---
 
-## 📚 Atualmente estudando
+## 🗄️ Database
 
-* Arquitetura SaaS
-* Segurança Web
-* PostgreSQL Avançado
-* Infraestrutura Linux
-* APIs REST
-* Git e Versionamento
-* Desenvolvimento Responsivo
-* Tecnologia aplicada ao setor marítimo e offshore
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+</p>
 
 ---
 
-## 🎯 Objetivos
+## 🌐 Frontend
 
-Busco crescimento profissional nas áreas de:
+<p>
 
-* Desenvolvimento Web / Saas / LandingPages
-* Infraestrutura Linux / VPS / Ubuntu / WIndows Server
-* Banco de Dados / SQL / PowerBi
-* Tecnologia Offshore (T.HUET + CBSP Valids +4Years)
-* Sistemas e Suporte Embarcado / Tecnico em Informatica OnShore+OffShore
-* Desenvolvimento SaaS/Sites/Perfis/Portifolios/Lojas/ComercioGeral
-* Trabalhar pra Europa (Italia)
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-Meu foco é construir soluções reais, aprender continuamente e evoluir tanto na área de tecnologia home office/presencial.🚀
+</p>
+
+---
+
+# ⚙️ Infrastructure
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,bash,nginx,vscode" />
+
+</p>
+
+### Technologies
+
+- Linux
+- Ubuntu Server
+- VPS
+- Nginx
+- Git
+- GitHub
+- SSH
+- REST APIs
+- MVC Architecture
+
+---
+
+# 📚 Currently Learning
+
+- ☕ Advanced Java
+- 🏗 Software Architecture
+- 🌐 REST API Development
+- 🗄 Database Design
+- ⚙️ System Design
+- 🔒 Web Security
+- 🚀 Performance Optimization
+- ☁️ Cloud & VPS Infrastructure
+
+---
+
+# 🎯 Current Goals
+
+- Build complete web systems
+- Create scalable SaaS products
+- Share programming content
+- Contribute to Open Source
+- Work internationally
+- Keep learning every day
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fakersz&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakersz&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌎 Connect with Me
+
+<p align="left">
+
+<a href="https://dev-jean.site">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jean-peixoto-33744420a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/jean.dev237">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 Motto
+
+> **"Building real-world systems and sharing the journey."**
+
+⭐ Thanks for visiting my profile!
+
+</div>
