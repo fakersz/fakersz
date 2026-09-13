@@ -1,156 +1,108 @@
 <div align="center">
 
-# 👋 Hi, I'm Jean Peixoto
+# 👋 Olá, eu sou Jean Peixoto
 
-### 💻 Full Stack Developer
+### 💻 Analista de Suporte de TI | Help Desk | Service Desk
 
-Building real-world systems with **Java**, **PHP**, **PostgreSQL**, **MySQL**, **HTML**, **CSS** and **JavaScript**.
+**Windows • macOS • Linux • Hardware • Redes • Suporte Remoto**
 
-<p>
-  <a href="https://dev-jean.site">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-dev--jean.site-black?style=for-the-badge">
-  </a>
-
-  <a href="https://www.linkedin.com/in/jean-peixoto-33744420a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://instagram.com/jean.dev237">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
-</p>
+<a href="https://www.linkedin.com/in/jeanpeixototi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 Sobre mim
 
-I'm a **Full Stack Developer** passionate about building complete web applications, from backend architecture and databases to responsive interfaces and production deployment.
+Profissional de Tecnologia da Informação com experiência prática em **suporte técnico, diagnóstico e resolução de problemas em hardware e software**.
 
-I enjoy solving real-world problems through software while sharing my journey as a technology content creator.
+Atuo com **Windows, macOS e Linux**, instalação e configuração de sistemas, softwares, drivers, periféricos, manutenção de computadores e suporte a usuários.
 
-My goal is to create scalable products, contribute to meaningful projects and build an international career in software development.
+Também possuo experiência com **atendimento ao cliente, suporte remoto e análise de falhas**, buscando sempre identificar a causa do problema e orientar o usuário de forma clara e objetiva.
 
----
-
-# ⚡ Core Stack
-
-## ☕ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,php" />
-
-</p>
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e continuo desenvolvendo meus conhecimentos em **backend, Linux, bancos de dados e infraestrutura**.
 
 ---
 
-## 🗄️ Database
+## 🛠️ Suporte e Infraestrutura
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-</p>
-
----
-
-## 🌐 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-</p>
-
----
-
-# ⚙️ Infrastructure
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,bash,nginx,vscode" />
-
-</p>
-
-### Technologies
-
-- Linux
-- Ubuntu Server
-- VPS
+- Help Desk / Service Desk
+- Suporte técnico N1
+- Windows, macOS e Linux
+- Instalação e configuração de sistemas
+- Diagnóstico de hardware e software
+- Manutenção de computadores
+- Redes de computadores
+- Suporte remoto
+- Linux Server / VPS
 - Nginx
-- Git
-- GitHub
 - SSH
-- REST APIs
-- MVC Architecture
+- Git e GitHub
 
 ---
 
-# 📚 Currently Learning
+## ⚙️ Backend e Desenvolvimento
 
-- ☕ Advanced Java
-- 🏗 Software Architecture
-- 🌐 REST API Development
-- 🗄 Database Design
-- ⚙️ System Design
-- 🔒 Web Security
-- 🚀 Performance Optimization
-- ☁️ Cloud & VPS Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,js,postgres,mysql,git,github,linux,nginx" alt="Tecnologias" />
+</p>
 
----
+Tecnologias e conhecimentos que mantenho em evolução:
 
-# 🎯 Current Goals
-
-- Build complete web systems
-- Create scalable SaaS products
-- Share programming content
-- Contribute to Open Source
-- Work internationally
-- Keep learning every day
+- Java
+- PHP
+- JavaScript
+- PostgreSQL
+- MySQL
+- APIs REST
+- Git / GitHub
+- Linux
+- Nginx
 
 ---
 
-# 📈 GitHub Stats
+## 📚 Atualmente estudando
+
+- Backend com Java
+- APIs REST
+- PostgreSQL
+- Docker
+- Infraestrutura Linux
+- Cloud
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco oportunidades em **Suporte de TI, Help Desk, Service Desk e Suporte Técnico**, usando minha base prática com sistemas operacionais, hardware, redes e atendimento ao usuário.
+
+No médio e longo prazo, sigo evoluindo tecnicamente em **backend e infraestrutura**, especialmente com Java, bancos de dados, Linux e cloud.
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fakersz&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fakersz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakersz&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakersz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
 ---
 
-# 🌎 Connect with Me
+## 🌎 Contato
 
-<p align="left">
-
-<a href="https://dev-jean.site">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jean-peixoto-33744420a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/jean.dev237">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
+- LinkedIn: https://www.linkedin.com/in/jeanpeixototi/
+- GitHub: https://github.com/fakersz
 
 ---
 
 <div align="center">
 
-## 💡 Motto
-
-> **"Building real-world systems and sharing the journey."**
-
-⭐ Thanks for visiting my profile!
+### 💡 Tecnologia, suporte e desenvolvimento na prática.
 
 </div>
