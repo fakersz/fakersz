@@ -6,12 +6,24 @@
 
 <!-- github-cool-readme:start -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fakersz/fakersz/cards/summary.svg" width="400" alt="Estatísticas do GitHub">
-  <img src="https://raw.githubusercontent.com/fakersz/fakersz/cards/languages.svg" width="400" alt="Linguagens mais usadas">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fakersz/fakersz/cards/summary-dark.svg">
+    <img src="https://raw.githubusercontent.com/fakersz/fakersz/cards/summary-light.svg" width="400" alt="Estatísticas do GitHub">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fakersz/fakersz/cards/languages-dark.svg">
+    <img src="https://raw.githubusercontent.com/fakersz/fakersz/cards/languages-light.svg" width="400" alt="Linguagens mais usadas">
+  </picture>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fakersz/fakersz/cards/contributions.svg" width="400" alt="Contribuições em outros projetos">
-  <img src="https://raw.githubusercontent.com/fakersz/fakersz/cards/weekly.svg" width="400" alt="Ritmo semanal de contribuições">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fakersz/fakersz/cards/contributions-dark.svg">
+    <img src="https://raw.githubusercontent.com/fakersz/fakersz/cards/contributions-light.svg" width="400" alt="Contribuições em outros projetos">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fakersz/fakersz/cards/weekly-dark.svg">
+    <img src="https://raw.githubusercontent.com/fakersz/fakersz/cards/weekly-light.svg" width="400" alt="Ritmo semanal de contribuições">
+  </picture>
 </p>
 <!-- github-cool-readme:end -->
 
