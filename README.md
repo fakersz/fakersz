@@ -1,108 +1,28 @@
-<div align="center">
+# Jean Peixoto
 
-# 👋 Olá, eu sou Jean Peixoto
+Desenvolvedor de sistemas web e profissional de suporte de TI. Trabalho com aplicações para gestão, diagnóstico de computadores e infraestrutura Linux.
 
-### 💻 Analista de Suporte de TI | Help Desk | Service Desk
+📍 Campos dos Goytacazes, RJ · [LinkedIn](https://www.linkedin.com/in/jeanpeixototi/) · [Portfólio](https://dev-jean.site)
 
-**Windows • macOS • Linux • Hardware • Redes • Suporte Remoto**
+## Projetos em destaque
 
-<a href="https://www.linkedin.com/in/jeanpeixototi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+| Projeto | O que faz | Tecnologias |
+| --- | --- | --- |
+| [GestãoAuto](https://github.com/fakersz/gestaoauto) | Gestão de oficinas: clientes, veículos, ordens de serviço, estoque e financeiro, com dados separados por empresa. | PHP, PostgreSQL, JavaScript |
+| [GestãoStore](https://github.com/fakersz/gestaostore) | Sistema para lojas com vendas, caixa, estoque, ordens de serviço e administração multiempresa. | PHP, PostgreSQL, JavaScript |
+| [SalvaDinDin](https://github.com/fakersz/salvadindin) | Controle financeiro com receitas, despesas, metas, investimentos e painel administrativo. | PHP, PostgreSQL, JavaScript |
+| [BarberApp](https://github.com/fakersz/barberdashboard) | Gestão de clientes, equipe, serviços e agendamentos para barbearias. | PHP, PostgreSQL, Docker |
 
-</div>
+Esses links apontam para as versões públicas dos projetos. O código e a documentação de cada repositório mostram o escopo disponível.
 
----
+## O que faço
 
-## 👨‍💻 Sobre mim
+- **Desenvolvimento:** aplicações web, APIs, autenticação, modelagem de dados e interfaces para operações de negócio.
+- **Infraestrutura:** Linux, VPS, Docker, Nginx, SSH e publicação de aplicações.
+- **Suporte técnico:** diagnóstico de hardware e software, Windows, macOS, Linux, redes e periféricos.
 
-Profissional de Tecnologia da Informação com experiência prática em **suporte técnico, diagnóstico e resolução de problemas em hardware e software**.
+Curso Análise e Desenvolvimento de Sistemas e continuo aprofundando backend, bancos de dados e infraestrutura.
 
-Atuo com **Windows, macOS e Linux**, instalação e configuração de sistemas, softwares, drivers, periféricos, manutenção de computadores e suporte a usuários.
+## Contato
 
-Também possuo experiência com **atendimento ao cliente, suporte remoto e análise de falhas**, buscando sempre identificar a causa do problema e orientar o usuário de forma clara e objetiva.
-
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e continuo desenvolvendo meus conhecimentos em **backend, Linux, bancos de dados e infraestrutura**.
-
----
-
-## 🛠️ Suporte e Infraestrutura
-
-- Help Desk / Service Desk
-- Suporte técnico N1
-- Windows, macOS e Linux
-- Instalação e configuração de sistemas
-- Diagnóstico de hardware e software
-- Manutenção de computadores
-- Redes de computadores
-- Suporte remoto
-- Linux Server / VPS
-- Nginx
-- SSH
-- Git e GitHub
-
----
-
-## ⚙️ Backend e Desenvolvimento
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,php,js,postgres,mysql,git,github,linux,nginx" alt="Tecnologias" />
-</p>
-
-Tecnologias e conhecimentos que mantenho em evolução:
-
-- Java
-- PHP
-- JavaScript
-- PostgreSQL
-- MySQL
-- APIs REST
-- Git / GitHub
-- Linux
-- Nginx
-
----
-
-## 📚 Atualmente estudando
-
-- Backend com Java
-- APIs REST
-- PostgreSQL
-- Docker
-- Infraestrutura Linux
-- Cloud
-
----
-
-## 🎯 Objetivo profissional
-
-Busco oportunidades em **Suporte de TI, Help Desk, Service Desk e Suporte Técnico**, usando minha base prática com sistemas operacionais, hardware, redes e atendimento ao usuário.
-
-No médio e longo prazo, sigo evoluindo tecnicamente em **backend e infraestrutura**, especialmente com Java, bancos de dados, Linux e cloud.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fakersz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakersz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-## 🌎 Contato
-
-- LinkedIn: https://www.linkedin.com/in/jeanpeixototi/
-- GitHub: https://github.com/fakersz
-
----
-
-<div align="center">
-
-### 💡 Tecnologia, suporte e desenvolvimento na prática.
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/jeanpeixototi/) · [GitHub](https://github.com/fakersz) · [Portfólio](https://dev-jean.site)
