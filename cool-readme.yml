@@ -1,0 +1,10 @@
+show: [summary, languages, contributions, weekly]
+
+count:
+  private: true
+  orgs: true
+
+look:
+  style: classic
+  color: github
+  animations: true
